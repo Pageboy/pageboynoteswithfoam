@@ -30,6 +30,7 @@ We've created a few Bubbles (Markdown documents) to get you started.
 - [[getting-started]] - learn how to use your Foam workspace
 - [[todo]] - a place to keep track of things to do
 - [[wikilinks]]
+- [[get-started-with-vscode]]
 
 In the `docs` directory you can find everything you need to learn the basics of Foam.
 
