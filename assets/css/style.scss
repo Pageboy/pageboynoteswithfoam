@@ -39,12 +39,20 @@ input.task-list-item-checkbox {
 //     "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
 // }
 
+section h1 {
+  border-bottom: 3px solid gray;
+  margin-bottom: 1em;
+}
+
 #title h1 {
   font-family: "OpenSansLight", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-size: 40px;
   text-align: center;
   line-height: 36px;
-  margin-bottom: 2em;
-  border-bottom: 2px solid gray;
+  margin-bottom: 1em;
+}
+
+a {
+  cursor: pointer;
 }
