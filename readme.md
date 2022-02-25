@@ -1,4 +1,4 @@
-<img src="attachments/me.png" width=100 align="left">
+<!-- <img src="attachments/me.png" width=100 align="left"> -->
 
 - [[inbox]] - a place to write down quick notes to be categorized later
 - [[getting-started]] - learn how to use your Foam workspace
