@@ -29,12 +29,22 @@ input.task-list-item-checkbox {
   margin-right: 4px;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-blockquote {
-  font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida,
-    "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+// h1,
+// h2,
+// h3,
+// h4,
+// h5,
+// blockquote {
+//   font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida,
+//     "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+// }
+
+#title h1 {
+  font-family: "OpenSansLight", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-size: 40px;
+  text-align: center;
+  line-height: 36px;
+  margin-bottom: 2em;
+  border-bottom: 2px solid gray;
 }
