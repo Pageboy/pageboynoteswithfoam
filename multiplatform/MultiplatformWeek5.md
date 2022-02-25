@@ -1,3 +1,5 @@
+#multiplatform
+
 # Week 5
 ## To do for the play:
 
@@ -27,7 +29,7 @@ Not good that clicking the links does not hide the menu - can only be sorted wit
 
 Give the ul an ID and then:
 
-`<ul id=“menu” onclick=“hidemenu()”>`
+`<ul id="menu" onclick="hidemenu()">`
 
 
 ## For the home page
@@ -37,7 +39,7 @@ Give the ul an ID and then:
 * add a hyperlink to the play file
 
 ```html
-<p class=“readplay”><a href=“play4web.html”>Read the play</a></p>
+<p class="readplay"><a href="play4web.html">Read the play</a></p>
 ```
 
 * ditto on the cover image
@@ -48,8 +50,8 @@ Give the ul an ID and then:
 * add a **back to top** with position fixed and > id on body
 
 ```html
-<div class=“backtotop”>
-<a title=“go back to the top of the page” href=“#play4web">&#x25B2;</a>
+<div class="backtotop">
+<a title="go back to the top of the page" href="#play4web">&#x25B2;</a>
 </div>
 
 see the id on the body
@@ -64,7 +66,7 @@ Put this as a `li` at the top of the navigation `ul`. Give it a class name of �
 * Add an audio clip
 
 ```html
-<audio controls src=“/media/act1scene1_clip01.mp3”></audio>
+<audio controls src="/media/act1scene1_clip01.mp3"></audio>
 ```
 
 - - - -
@@ -89,5 +91,3 @@ Put this as a `li` at the top of the navigation `ul`. Give it a class name of �
 * Move into the css folder and Add file in there
 * Alternatively you can replace the **docs** folder altogether as long as this is working locally
 
-
-#multiplatform

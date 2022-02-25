@@ -1,3 +1,5 @@
+#multiplatform
+
 # Week 4.5
 ## Building the responsive menu
 **Steps**
@@ -187,5 +189,3 @@ So when the display is small we can use our media query to hide the menu but rev
     display: block;
   }
 ```
-
-#multiplatform

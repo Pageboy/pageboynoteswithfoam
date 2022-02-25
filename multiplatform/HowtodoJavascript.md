@@ -1,3 +1,5 @@
+#multiplatform
+
 # How to do Javascript
 Explain javascript with this:
 
@@ -17,5 +19,3 @@ alert(‘hello my friends’);
 On a link then add
 
 `onclick=“greeting ();`
-
-#multiplatform
