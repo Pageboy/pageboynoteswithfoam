@@ -45,6 +45,13 @@ Give the ul an ID and then:
 <ul id=“menu” onclick=“hidemenu()”>
 ```
 
+Also add the following ~important~ switch to the toggle hamburger
+
+```css
+ #toggle:checked ~ #menu {
+    display: block !important;
+  }
+```
 
 ## For the home page
 
@@ -68,7 +75,7 @@ Give the ul an ID and then:
 <a title=“go back to the top of the page” href=“#play4web">&#x25B2;</a>
 </div>
 
-see the id on the body for your ow link
+see the id on the body for your own link
 ```
 
 
@@ -81,6 +88,17 @@ Here is what this should look like:
  <li class="home"><a href="index.html">Home</a></li>
 ```
 
+To make sure that this _Home_ is centred on the drop down version of the menu add the following line for the `nav ul` :
+
+`clear: right;`
+
+### Mobile device issues:
+
+make sure that the head tag includes the following to overcome any issues:
+
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+```
 
 ### Optional
 
