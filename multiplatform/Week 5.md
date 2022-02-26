@@ -13,6 +13,13 @@
 > Use *max-width* for media queries  
 
 ## To do for the play:
+* The play navigation needs attention
+* Bring the files together in the docs folder
+* Make a hyperlink from the **home page to the play**
+* In the play, create a link **back to the home page**
+* In the play, create a ‘**back to top**’ button
+* Optionally add an **audio clip**
+* Make the site **live on GitHub**
 
 * Fixed navigation hides the destination when clicking an item in the navigation.  We can - sort out with  *scroll-padding-top* on the `html` element.
 
