@@ -17,11 +17,6 @@ Show my completed play but leaving off the menu to start with
 * Revert to 100% for width when small
 - - - -
 
-### Menu 
-
-Change moodle to prioritise this rather than the menu.
-Update the css on moodle
-
 ### Issues
 
 1. You may have a table for the Dramatis Personae
