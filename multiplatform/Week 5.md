@@ -17,7 +17,7 @@
 * Bring the files together in the docs folder
 * Make a hyperlink from the **home page to the play**
 * In the play, create a link **back to the home page**
-* In the play, create a ‘**back to top**’ button
+* In the play, create a '**back to top**' button
 * Optionally add an **audio clip**
 * Make the site **live on GitHub**
 
@@ -87,7 +87,7 @@ see the id on the body for your own link
 
 
 * add a **home** link to go back to the home page of the site
-Put this as a `li` at the top of the navigation `ul`. Give it a class name of ‘home’ and then style this with auto right margin.
+Put this as a `li` at the top of the navigation `ul`. Give it a class name of 'home' and then style this with auto right margin.
 
 Here is what this should look like:
 

@@ -4,7 +4,7 @@
 Explain javascript with this:
 
 ```javascript
-onclick=“alert(‘hello world’);
+onclick="alert('hello world');
 ```
 
 And then a function
@@ -12,10 +12,10 @@ And then a function
 ```html
 <script>
 function greeting () {
-alert(‘hello my friends’);
+alert('hello my friends');
 </script>
 ```
 
 On a link then add
 
-`onclick=“greeting ();`
+`onclick="greeting ();`

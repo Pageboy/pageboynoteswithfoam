@@ -145,7 +145,7 @@ Now we need a media query to target when the display is small like on mobile
 }
 ```
 
-Now let’s try with the hamburger menu 
+Now let's try with the hamburger menu 
 
 In this version we need to use a hamburger menu item that will reveal the menu.  For this we need a checkbox as input that will toggle this on and off.
 
